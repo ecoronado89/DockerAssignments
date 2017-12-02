@@ -1,0 +1,23 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "First Udemy Docker assignment",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecoronado89/DockerAssignments.git"
+  },
+  "author": "Eder Coronado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecoronado89/DockerAssignments/issues"
+  },
+  "homepage": "https://github.com/ecoronado89/DockerAssignments#readme"
+}
